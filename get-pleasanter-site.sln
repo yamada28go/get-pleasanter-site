@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "get-pleasanter-site", "get-pleasanter-site\get-pleasanter-site.csproj", "{7C25AE37-F3CB-4051-929B-CB9996828CD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C25AE37-F3CB-4051-929B-CB9996828CD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C25AE37-F3CB-4051-929B-CB9996828CD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C25AE37-F3CB-4051-929B-CB9996828CD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C25AE37-F3CB-4051-929B-CB9996828CD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E7827AC-9267-452B-80B8-6289939B6242}
+	EndGlobalSection
+EndGlobal
