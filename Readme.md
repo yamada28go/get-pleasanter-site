@@ -13,9 +13,9 @@
 Pleasanterのスクリプトを送信するには、以下のコマンドを使用します。
 
 ```sh
-dotnet get-pleasanter-site.dll PutScript <ConfigurationFileName>
+dotnet get-pleasanter-site.dll GetSite <ConfigurationFileName>
 ```
-ConfigurationFileNameには、アップロードに関する設定情報が記載されたXMLファイルのパスを指定します。
+ConfigurationFileNameには、サイト情報の取得に関する設定情報が記載されたXMLファイルのパスを指定します。
 
 ### デフォルト設定ファイルの取得
 設定ファイルをのひな形となる、デフォルトの設定ファイルを取得するには、以下のコマンドを使用します。
