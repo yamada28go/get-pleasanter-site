@@ -43,7 +43,7 @@ dotnet get-pleasanter-site.dll DefaultConfiguration <OutFileName>
 | 要素名                   | 説明                                                                                              | 例                                                                                        |
 |------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
 | `ApiKey`               | PleasanterのAPIキーを指定します。これはPleasanterへの認証に使用されます。                           | `<ApiKey>your_api_key_here</ApiKey>`                                                      |
-| `PleasanterURL`        | PleasanterのベースURLを指定します。これはスクリプト送信先のURLです。                                | `<PleasanterURL>http://example.com</PleasanterURL>`                                       |
+| `PleasanterURL`        | PleasanterのベースURLを指定します。                                | `<PleasanterURL>http://example.com</PleasanterURL>`                                       |
 | `SiteID`               | 構成を取得するPleasanter上のサイトIDを指定します。                                          | `<SiteID>1</SiteID>`                                                                      |
 | `SaveFile`               | 保存するファイル名を指定します。                                          | `<SaveFile>export.json</SaveFile>`                                                                      |
 
